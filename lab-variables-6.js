@@ -14,5 +14,5 @@ let user3Phone = "0800 1111";
 let user3Email = "libero@convallis.edu";
 		
 // Display in the console
-console.log(user1Name, user1Phone, user1Email)
-console.log(user3Name, user3Phone, user3Email)
+console.log(user1Name + " / " + user1Phone + " / " + user1Email)
+console.log(user3Name + " / " + user3Phone + " / " + user3Email)
