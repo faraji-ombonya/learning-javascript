@@ -113,3 +113,34 @@ have a choice of:
 When adding a new contact, check if the user has entered all the necessary
 data. If at least one of the three values is missing (name, phone, or email) 
 don't add the contact.
+
+## lab-loops
+
+### Estimated time
+15-30 minutes
+
+### Level of difficulty
+Easy
+
+### Objectives
+Familiarize the student with:
+* Loops (what are loops, the while loop, the do–while loop, the for loop, the
+ for–of loop, the for–in loop, the break and continue statements)
+
+### Scenario
+We can improve our contact list program a bit by using loops. You can now try 
+to display not only the first or last contact, but all contacts in the list, 
+regardless of their number.
+
+Additionally, try to enclose the whole program in a loop so that the user is 
+repeatedly asked what they want to do. The user can choose to:
+* display the first contact (first)
+* display the last contact (last)
+* display all contacts (all)
+* add a new contact (new)
+* exit the program (quit)
+
+After executing the selected action, the program will give the opportunity to 
+choose again. The program should end the actions only after the user gives a 
+specified command, for example `quit`.
+
