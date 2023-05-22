@@ -86,3 +86,30 @@ the program is running? Modify the program to add, at the end of the list,
 not the contact, which is given in the code, but the one which the user will 
 give during the program run. Use the prompt method to do this. At the end, 
 display the first and the last contact from the list.
+
+
+## lab-conditional-execution
+
+### Estimated time
+15-30 minutes
+
+### Level of difficulty
+Easy
+
+### Objectives
+Familiarize the student with:
+* Conditional execution (what is conditional execution, the if–else statement,
+  the conditional operator, the switch–case statement)
+
+### Scenario
+During the last modification of the program with the contact list, we allow 
+the user to add a new contact with the data entered by the user while the 
+program is executing. Let's go a step further – try to modify the program so
+that the user has a choice of what they want to do with the list. They will 
+have a choice of:
+* showing the first contact (first)
+* showing the last contact (last)
+* adding a new contact (new)
+When adding a new contact, check if the user has entered all the necessary
+data. If at least one of the three values is missing (name, phone, or email) 
+don't add the contact.
