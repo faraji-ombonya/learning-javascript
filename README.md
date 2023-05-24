@@ -7,7 +7,7 @@
 ### Tasks
 
 #### Task 1
-Use console.log to output your full name to the console.
+Use `console.log` to output your full name to the console.
 
 #### Task 2
 
