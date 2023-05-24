@@ -2,9 +2,9 @@
 
 
 
-## MODULE 1: INTRODUCTION TO JAVASCRIPT AND COMPUTER PROGRAMMING
+## Module 1: Introduction To JavaScript and Computer Programming
 
-## MODULE 2: VARIABLES, DATA TYPES, TYPE CASTING, AND COMMENTS
+## Module 2: Variables, Data Types, Type Casting, and Comments
 
 ### lab-variables-6.js
 
@@ -71,7 +71,7 @@ determine the index of the last element. Remember that the array elements are
 indexed starting at 0.
 
 
-## MODULE 3: OPERATORS AND USER INTERACTION
+## Module 3: Operators and User Interaction
 
 ### lab-interaction
 
@@ -97,7 +97,7 @@ give during the program run. Use the prompt method to do this. At the end,
 display the first and the last contact from the list.
 
 
-## MODULE 4: CONTROL FLOW – CONDITIONAL EXECUTION AND LOOPS
+## Module 4: Control Flow – Conditional Execution and Loops
 
 ### lab-conditional-execution
 
