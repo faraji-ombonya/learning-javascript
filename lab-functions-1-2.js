@@ -17,7 +17,7 @@ let contacts = [
 ];
 
 function showContact(contacts, index) {
-  if (contacts instanceof Array && index >= 0 && index < contacts.length) {
+  if (contacts instanceof Array && contacts[index]) {
     let contact = contacts[index];
     console.log(`${contact.name} / ${contact.phone} / ${contact.email}`);
   } else {
