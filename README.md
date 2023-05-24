@@ -4,6 +4,51 @@
 
 ## Module 1: Introduction To JavaScript and Computer Programming
 
+### Tasks
+
+#### Task 1
+Use console.log to output your full name to the console.
+
+#### Task 2
+
+Output your year of birth.
+
+#### Task 3
+
+Try again to output your year of birth, this time passing the date without the
+quotes.
+
+#### Task 4
+
+We can pass several arguments to `console.log` separated by commas, e.g.:
+
+```
+console.log("abc", "def", "ghi");
+```
+
+Output information about yourself to the console in the 
+format: `Name Surname (Year)` e.g. *Mary Stuart (1542)*.
+
+* giving all the information as one argument;
+* giving the name, surname, and year as separate arguments.
+
+#### Task 5
+
+Output the same information (name, surname, year) to the console, not side 
+by side, but on consecutive lines.
+
+#### Task 6
+
+A string can be concatenated using the `+` sign, for example 
+`"abc"` `+` `"def"` will be treated as `"abcdef"`. Try writing your name, 
+surname, and year of birth on one line again, this time not separated 
+by commas, but by `+` signs.
+
+#### Task 7
+
+Put spaces in the appropriate places, so that when displayed, you get the 
+same effect as in **Task 4**.
+
 ## Module 2: Variables, Data Types, Type Casting, and Comments
 
 ### lab-variables-6.js
