@@ -309,7 +309,7 @@ Example of use and expected results:
 Write a function that will calculate the n-th element of the Fibonacci 
 sequence. So each element of the sequence (except the first two) is the sum 
 of the previous two. 
-For example: F1 = 1, F2 = F1 + F0 = 1, F3 = F2 + F1 = 2 and F6 = F5 + F4 = 8. 
+For example: *F1 = 1, F2 = F1 + F0 = 1, F3 = F2 + F1 = 2* and *F6 = F5 + F4 = 8*. 
 The function should use **recursion**. In the definition, use a function 
 expression (store an anonymous function in a variable).
 
